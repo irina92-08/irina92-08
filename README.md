@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><img width="80%" alt="Hello, I'm Irina.I am a frontend developer!" src="./readme-header.png" /></p>
 
 <!--
 **irina92-08/irina92-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
