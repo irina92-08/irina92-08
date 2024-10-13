@@ -1,5 +1,12 @@
-<p align="center"><img width="80%" alt="Hello, I'm Irina.I am a frontend developer!" src="./readme-header.png" /></p>
+<p align="center"><img alt="Hello, I'm Irina.I am a frontend developer!" src="./readme-header.png" /></p>
 
+### A little bit about me
+
+<p>In 2023, I became interested in website development. She took courses in web design at the university, where she mastered the basics of CSS and html. After the courses, I made up websites for friends and acquaintances on my own. I wanted to move on, and then I decided that I wanted to be a frontend developer. So I started studying Javascript at the Hexlet School of Programming from 2023-2025</p>
+
+* 🌍  I'm based in Nizhniy Novgorod
+* ✉️  You can contact me at [irina92-08@mail.ru](mailto:irina92-08@mail.ru)
+* ⚡  My education: 2010-2016 - Information Management, Alekseev Nizhny Novgorod State University
 <!--
 **irina92-08/irina92-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
